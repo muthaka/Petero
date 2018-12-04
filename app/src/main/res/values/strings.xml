@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Petero</string>
+    <string name="text_name">0</string>
+    <string name="toast">Toast</string>
+    <string name="random">Random</string>
+    <string name="count">Count</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="random_text">R</string>
+    <string name="startText">Start Menu</string>
+    <string name="miki">User Experience</string>
+    <string name="lion">Inputs Fields</string>
+    <string name="emoji">Saving Data</string>
+    <string name="bear">Alarm Manager</string>
+    <string name="user_message">You Clicked on User Experience.</string>
+    <string name="inputs_message">You Clicked on Inputs.</string>
+    <string name="saving_message">You Clicked on Saving Data.</string>
+    <string name="alarm_message">You Clicked on Alarm Management.</string>
+    <string name="AsyncTask">AsyncTask</string>
+    <string name="ready_to_start">I am ready to start work!</string>
+    <string name="alarm">Alarm</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="update_me">Update Me</string>
+    <string name="cancel_me">Cancel Me</string>
+    <string name="title_activity_alarm">Alarm</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+
+</resources>
